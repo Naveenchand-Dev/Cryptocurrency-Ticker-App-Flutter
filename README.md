@@ -1,4 +1,4 @@
-# bitcoin_ticker
+# Cryptocurrency-Ticker
 
 A new Flutter project.
 
